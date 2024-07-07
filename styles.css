@@ -1,0 +1,66 @@
+#wrapper { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+   
+    margin-bottom: 10px;
+    padding: 12px;
+    border-bottom: solid 1px black;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+img {
+    object-fit: cover;
+    width: 50vh;
+    height:30vh;
+}
+
+#box {
+
+    width:50vh;
+    height:45vh;
+    border: solid 1px black;
+    justify-content:center;
+    align-items: center;
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#title {
+    font-size:x-large;
+}
+
+#count {
+    font-size:large;
+}
+
+p {
+    font-size:x-large;
+    text-align: justify;
+    padding: 5px;
+    align-items:center;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#header h1 {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 1500;
+    font-style: normal;
+}
+
+
+
+
+
+
