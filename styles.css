@@ -58,6 +58,8 @@ p {
     font-family: "Bona Nova SC", serif;
     font-weight: 1500;
     font-style: normal;
+    margin-bottom: 100px;
+    text-decoration: underline;
 }
 
 
