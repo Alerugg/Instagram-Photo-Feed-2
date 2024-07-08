@@ -1,4 +1,4 @@
-#wrapper { 
+.wrapper { 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,7 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
    
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     padding: 12px;
     border-bottom: solid 1px black;
     font-family: "Bona Nova SC", serif;
@@ -23,7 +23,7 @@ img {
     height:30vh;
 }
 
-#box {
+.box {
 
     width:50vh;
     height:45vh;
@@ -33,13 +33,14 @@ img {
     padding: 5px;
     padding-left: 8px;
     padding-right: 8px;
+    margin-bottom: 80px;
 }
 
-#title {
+.title {
     font-size:x-large;
 }
 
-#count {
+.count {
     font-size:large;
 }
 
@@ -53,7 +54,7 @@ p {
     font-style: normal;
 }
 
-#header h1 {
+.header h1 {
     font-family: "Bona Nova SC", serif;
     font-weight: 1500;
     font-style: normal;
